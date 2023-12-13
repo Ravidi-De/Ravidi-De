@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I am ravidi de silwa🙋🏻‍♀️ <br>Student of SLIIT
+Hi I am ravidi de silwa🙋🏻‍♀️ <br>Student of SLIIT faculty of computing
 
 
 ## 🌐 Socials:
