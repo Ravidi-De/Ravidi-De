@@ -24,7 +24,7 @@
 ![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
 
-  ![Drake](https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&height=30)
+  ![Drake](https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&height=30&lines=all+projects+in+here)
   <p align="center" height='140px' > <img src="https://komarev.com/ghpvc/?username=Ravidi-De&label=visitors&color=31c442&style=plastic"/> </p>
 
 </h3>
