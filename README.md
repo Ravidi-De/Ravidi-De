@@ -29,7 +29,4 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-(https://github-readme-stats.vercel.app/api?username=Ravidi-De-ux&hide=issues&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravidi-De-ux&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@sreevishnu_ux/79cd408d-2c54-421e-aef3-ef0007369468.png" width = 400px /></a>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravidi-De&theme=algolia" alt="Ravidi-De" /></p>
