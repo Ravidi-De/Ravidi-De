@@ -24,6 +24,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/coffee.de_"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="coffee.de_" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravidi-de&show_icons=true&locale=en&layout=compact" alt="ravidi-de" /></p>
+(https://github-readme-stats.vercel.app/api?username=Ravidi-De-ux&hide=issues&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravidi-De-ux&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravidi-de&" alt="ravidi-de" /></p>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@sreevishnu_ux/79cd408d-2c54-421e-aef3-ef0007369468.png" width = 400px /></a>
