@@ -15,6 +15,25 @@
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
+<h3 align="center">
+  
+![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
+![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
+![img](https://custom-icon-badges.herokuapp.com/badge/Issue-red.svg?logo=issue)
+![img](https://custom-icon-badges.herokuapp.com/badge/Fork-orange.svg?logo=fork)
+![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
+![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
+
+  ![Drake](https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&height=30)
+  <p align="center" height='140px' > <img src="https://komarev.com/ghpvc/?username=Ravidi-De&label=visitors&color=31c442&style=plastic"/> </p>
+
+</h3>
+  
+
+
+
+
+
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p align="left">
 <a href="https://linkedin.com/in/ravidi-de-silwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravidi-de-silwa" height="30" width="40" /></a>
