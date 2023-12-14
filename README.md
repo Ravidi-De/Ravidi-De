@@ -30,7 +30,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-##Streak Stats<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravidi-De&theme=algolia" alt="Ravidi-De" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravidi-De&theme=algolia" alt="Ravidi-De" /></p>
 
 
  <summary><b>💻 GitHub Profile Stats</b></summary>
