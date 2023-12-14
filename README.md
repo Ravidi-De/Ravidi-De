@@ -1,5 +1,8 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/Ravidi-De">ravidi</a>'s Profile 👋</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/Ravidi-De">ravidi</a>'s Profile  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
+  
+  
+  </h1>
 </p>
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Student+of+SLIIT;faculty+of+computing+;" /></a>
