@@ -25,7 +25,7 @@
 ![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
 
   ![Drake](https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&height=30&lines=all+projects+in+here)
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ravidi-De=Profile%20views&color=0e75b6&style=plastic" alt="candida18"/> </p>
+ 
 
 </h3>
   
