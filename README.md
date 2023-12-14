@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm ravidi</h1>
+<h1 align="center">Hello 🙋🏻‍♀️ I am ravidi </h1>
 <h3 align="center">student of SLIIT faculty of Computing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravidi-de&label=Profile%20views&color=0e75b6&style=flat" alt="ravidi-de" /> </p>
 
-- 🌱 I’m currently learning **SLIIT**
+
 
 - 📫 How to reach me **ravididesilwa@gmail.com**
 
