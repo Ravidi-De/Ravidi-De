@@ -68,8 +68,7 @@
 
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hey, I'll be happy to meet you more!</b> :)</em>
 
-  <img align="center" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
+  
   
 
 
